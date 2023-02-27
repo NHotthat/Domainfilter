@@ -7,9 +7,9 @@
 <p>  -f FILE, --file FILE  Choose file</p>
 <p>  -o OUTFILE, --outfile OUTFILE
                        Output file, default result.txt</p>
-<p>  -t THREAD, --thread THREAD
-                      Num of threads, default 30</p>
-<p>![image](https://github.com/NHotthat/Domainfilter/blob/master/images/1.png)</p>
+-t THREAD, --thread THREAD
+                      Num of threads, default 30
+![image](https://github.com/NHotthat/Domainfilter/blob/master/images/1.png)
 
-<p>![image](https://github.com/NHotthat/Domainfilter/blob/master/images/2.png)</p>
+![image](https://github.com/NHotthat/Domainfilter/blob/master/images/2.png)
 
