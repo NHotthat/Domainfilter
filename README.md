@@ -9,7 +9,7 @@
                        Output file, default result.txt</p>
 <p>  -t THREAD, --thread THREAD
                       Num of threads, default 30</p>
-截图：
-<p>![image1](https://github.com/NHotthat/Domainfilter/blob/master/images/1.png)</p>
-<p>![image2](https://github.com/NHotthat/Domainfilter/blob/master/images/2.png)</p>
+[image](https://github.com/NHotthat/Domainfilter/blob/master/images/1.png)
+
+[image](https://github.com/NHotthat/Domainfilter/blob/master/images/2.png)
 
