@@ -3,12 +3,10 @@
 <p>usage: Domainfilter.py [-h] [-f FILE] [-o OUTFILE] [-t THREAD]</p>
 
 <p>options:</p>
-<p>  -h, --help            show this help message and exit</p>
-<p>  -f FILE, --file FILE  Choose file</p>
-<p>  -o OUTFILE, --outfile OUTFILE
-                       Output file, default result.txt</p>
-<p>-t THREAD, --thread THREAD
-                      Num of threads, default 30</p>
+<p>  -h, --help</p>
+<p>  -f FILE, --file</p>
+<p>  -o OUTFILE, --outfile OUTFILE</p>
+<p>-t THREAD, --thread THREAD</p>
 
 ![image](https://github.com/NHotthat/Domainfilter/blob/master/images/1.png)
 
