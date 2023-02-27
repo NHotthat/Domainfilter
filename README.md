@@ -3,10 +3,10 @@
 <p>usage: Domainfilter.py [-h] [-f FILE] [-o OUTFILE] [-t THREAD]</p>
 
 <p>options:</p>
-<p>&nbsp;&nbsp;&nbsp;  -h, --help</p>
-<p>&nbsp;&nbsp;&nbsp;  -f FILE, --file</p>
-<p>&nbsp;&nbsp;&nbsp;  -o OUTFILE, --outfile OUTFILE</p>
-<p>-t THREAD, --thread THREAD</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-h, --help</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-f FILE, --file</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-o OUTFILE, --outfile OUTFILE</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-t THREAD, --thread THREAD</p>
 
 ![image](https://github.com/NHotthat/Domainfilter/blob/master/images/1.png)
 
