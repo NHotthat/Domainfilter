@@ -3,7 +3,7 @@
 <p>usage: Domainfilter.py [-h] [-f FILE] [-o OUTFILE] [-t THREAD]</p>
 
 <p>options:</p>
-&nbsp;<p>  -h, --help</p>
+<p>&nbsp;  -h, --help</p>
 <p>  -f FILE, --file</p>
 <p>  -o OUTFILE, --outfile OUTFILE</p>
 <p>-t THREAD, --thread THREAD</p>
