@@ -9,6 +9,6 @@
                        Output file, default result.txt</p>
 <p>  -t THREAD, --thread THREAD
                       Num of threads, default 30</p>
-<p>![image](https://github.com/NHotthat/Domainfilter/tree/master/images/1.png)</p>
-<p>![image](https://github.com/NHotthat/Domainfilter/tree/master/images/2.png)</p>
+<p>![Alt text](https://github.com/NHotthat/Domainfilter/tree/master/images/1.png)</p>
+<p>![Alt text](https://github.com/NHotthat/Domainfilter/tree/master/images/2.png)</p>
 
